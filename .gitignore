@@ -1,0 +1,10 @@
+# pastas
+.vscode/
+.idea/
+venv/
+__pycache__/
+
+# arquivos
+*.pic
+*.db
+
